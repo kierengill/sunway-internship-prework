@@ -3,6 +3,8 @@
 
 ***Code in test_branch2***
 
+I made this project when as part of an internship application for Sunway Construction.
+
 **Website Functionality**
 
 Users should be able to upload an image of a product, enter the product's text description, and upload a pdf document related to the product. All information should be stored in a database.
